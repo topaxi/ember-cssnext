@@ -1,0 +1,32 @@
+{
+  "name": "ember-cssnext",
+  "description": "Ember cssnext compiler for ember-cli",
+  "version": "1.0.0",
+  "author": {
+    "name": "Damian Senn",
+    "email": "damian.senn@gmail.com"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/topaxi/ember-cssnext"
+  },
+  "keywords": [
+    "ember-addon",
+    "cssnext",
+    "postcss",
+    "css"
+  ],
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/topaxi/ember-cssnext/issues"
+  },
+  "homepage": "https://github.com/topaxi/ember-cssnext",
+  "dependencies": {
+    "broccoli-cssnext-single": "^1.1.0",
+    "broccoli-merge-trees": "^0.2.3",
+    "ember-cli-version-checker": "^1.1.4",
+    "lodash.merge": "^3.3.2"
+  }
+}
